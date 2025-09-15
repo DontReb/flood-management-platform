@@ -13,7 +13,7 @@ const Header = () => {
                 <h1 className='text-2xl font-bold text-blue-600 m-0'>
                     FloodGuard
                 </h1>
-                <p className='text-sm text-gray-500 m-0'>
+                <p className='text-sm text-gray-500 m-0 font-roboto-serif'>
                     Dagupan City
                 </p>
             </div>
