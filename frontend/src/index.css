@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+@layer utilities {
+    .font-roboto-serif {
+        font-family: 'Roboto Serif', monospace;
+    }
+
+    .font-lexend-deca {
+        font-family: 'Lexend Deca', sans-serif;
+    }
+}
+
+body {
+    font-family: 'Lexend Deca';
+}
