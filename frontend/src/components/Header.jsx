@@ -9,7 +9,7 @@ const Header = () => {
     return (
         <nav className='flex justify-between items-center px-8 py-4 '>
             {/* name & logo section */}
-            <div>
+            <div className='cursor-default'>
                 <h1 className='text-2xl font-bold text-blue-600 m-0'>
                     FloodGuard
                 </h1>
